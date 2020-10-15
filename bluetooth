@@ -1,0 +1,103 @@
+We will introduce Bluetooth and Wi-Fi connection technologies in more detail and compare them based on the most important features in commercial and industrial IoT applications.
+
+Bluetooth technology
+
+Definition
+
+Bluetooth technology is a low-power wireless solution operating on the 2.4 GHz ISM frequency band. Over the years, Bluetooth technology has continued to expand, and now it has great flexibility in terms of distance, bandwidth, and communication topology, which can meet the needs of different IoT applications.
+
+
+
+Technical Details
+
+There are currently two different Bluetooth radio options: Bluetooth Classic and Bluetooth Low Energy (Bluetooth LE). Classic Bluetooth (or BR/EDR), the original Bluetooth radio, is still widely used in streaming applications, especially audio streaming. Bluetooth Low Energy module is mainly used for low-bandwidth applications where data is frequently transmitted between devices. Bluetooth Low Energy is known for its extremely low power consumption and its popularity in smart phones, tablets and personal computers.
+
+
+
+Bluetooth Low Energy is divided into point-to-point, star, mesh and broadcast topologies. In the mesh topology, the nodes are directly connected without communicating with other nodes through the hub. Nodes can send data and information to other nodes outside the communication range of the original source node, expanding the network coverage in a large area.
+
+
+
+Application
+
+Bluetooth Low Energy is most commonly used in medical and fitness equipment, smart lighting systems, real-time positioning systems, and indoor navigation applications.
+
+
+
+Wi-Fi
+
+Definition
+
+Wi-Fi is the brand name of all IEEE 802.11 standard wireless local area networks (WLAN). The working frequency band of Wi-Fi is usually 2.4 GHz and 5 GHz ISM, but newer versions of Wi-Fi also use other frequency bands.
+
+
+
+Technical Details
+
+There are many versions of Wi-Fi. The Wi-Fi Alliance recently adopted a new version numbering system: Wi-Fi 1 (802.11b), Wi-Fi 2 (802.11a), Wi-Fi 3 (802.11g), Wi-Fi 4 (802.11n, Wi -Fi 5 (802.11ac) and Wi-Fi 6 (802.11ax). The latest version can meet the needs of various applications, including longer distance, higher throughput and larger coverage.
+
+
+
+The most popular topology for Wi-Fi is the star topology. But in the star topology, nodes can only communicate with each other through the hub.
+
+
+
+Application
+
+Wi-Fi is mainly used for large file transmission and data transmission applications with high bandwidth, such as video streaming.
+
+
+
+In IoT applications, Wi-Fi is most commonly used for devices that need to directly connect to the Internet. But it usually cannot meet the low power consumption requirements, and it is rarely used in applications and devices that need to run on micro batteries for a long time.
+
+
+
+Comparison Table:
+
+
+Item
+
+Bluetooth
+
+Wi-Fi
+
+Work Range
+
+10m~1500m
+
+15m~100m
+
+Throughput
+
+125kbps~2Mbps
+
+54Mbps~1.3Gbps
+
+Consumption
+
+Low
+
+High
+
+Topology
+
+Point-to-point
+
+Star Topology
+
+Mesh Topology
+
+Broadcast Topology
+
+Star Topology
+
+2019 Device Shipments
+
+(numbers in millions)
+
+3500
+
+3200
+
+
+Currently, Feasycom has Bluetooth modules and Wi-Fi modules that can meet various requirements, more information, welcome to visit Feasycom website.
